@@ -6,7 +6,7 @@ This project demonstrates core object-oriented programming (OOP) principles in J
 
 Authored By:
 
-Brian Aravilla
-John Mark Baptista
-Samuel Odono
+Brian Aravilla,
+John Mark Baptista,
+Samuel Odono,
 Joshua Lauren Villaruel
